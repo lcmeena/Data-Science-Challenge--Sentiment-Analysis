@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-CarminePanther
-10-1-18
-Challenge 2
-"""
 import numpy as np
 import matplotlib.pyplot as mplot
 from glob import glob
